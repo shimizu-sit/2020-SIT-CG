@@ -13,6 +13,8 @@
 
 Processingについて説明する．Processingの使い方，基本操作（実行，停止，保存等）について説明する．座標と基本図形，色について説明する．
 
+- 授業課題の解答プログラム：[sketch_02_Prac](https://github.com/shimizu-sit/2020-SIT-CG/blob/master/02-Lecture/sketch_02_Prac/sketch_02_Prac.pde)
+
 ----
 
 ### 3.単純な図形の描画，繰り返し，条件分岐処理の利用
