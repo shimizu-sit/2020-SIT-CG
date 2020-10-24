@@ -23,6 +23,8 @@ Processingで扱える図形の関数の紹介をする．繰り返し（for文�
 
 アニメーションの基本について説明する．processingでアニメーションを作る方法（setup()関数，draw()関数）について説明する．
 
+- 授業課題の解答例プログラム：[sketch_04_Prac](https://github.com/shimizu-sit/2020-SIT-CG/blob/master/04-Lecture/sketch_04_Prac/sketch_04_Prac.pde)
+
 ### 5.ローカル座標系，幾何学変換
 
 座標変換について説明する．translate()関数，rotate()関数，scale()関数について説明する．rectMode()についても説明する．座標変換を用いたアニメーションの表現を実施する．
