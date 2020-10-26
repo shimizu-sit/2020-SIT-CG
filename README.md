@@ -29,6 +29,8 @@ Processingで扱える図形の関数の紹介をする．繰り返し（for文�
 
 座標変換について説明する．translate()関数，rotate()関数，scale()関数について説明する．rectMode()についても説明する．座標変換を用いたアニメーションの表現を実施する．
 
+- 授業課題の解答例プログラム：[sketch_05_Prac](https://github.com/shimizu-sit/2020-SIT-CG/blob/master/05-Lecture/sketch_05_Prac/sketch_05_Prac.pde)
+
 ### 6.イベント処理，インタラクティブな図形描画，マウス・キー入力
 
 イベント処理につて説明する．Processingで用意されているMouseイベント，Keyイベントを紹介する．Mouseイベント，Keyイベントを使った簡単なプログラムを作成する．イベント処理を使ったインタラクションのブログラムを作成する．
