@@ -17,7 +17,6 @@ void draw() {
     fill(col);
     rect(mouseX, mouseY, rectWidth, rectHeight);
   }
-  saveFrame("frames/######.tif");
 }
 
 void keyReleased() {
