@@ -35,6 +35,7 @@ Processingで扱える図形の関数の紹介をする．繰り返し（for文�
 
 イベント処理につて説明する．Processingで用意されているMouseイベント，Keyイベントを紹介する．Mouseイベント，Keyイベントを使った簡単なプログラムを作成する．イベント処理を使ったインタラクションのブログラムを作成する．
 
+- 授業課題の解答例プログラム：[sketch_06_Prac](https://github.com/shimizu-sit/2020-SIT-CG/blob/master/06-Lecture/sketch_06_Prac/sketch_06_Prac.pde)
 
 ### 7.複数図形の描画
 
