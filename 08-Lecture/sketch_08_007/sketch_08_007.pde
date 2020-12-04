@@ -10,8 +10,8 @@ void setup() {
 void draw() {
   background(204);
 
-  text("rotate X = " + rx, 10, 20);
-  text("rotate Y = " + ry, 10, 40);
+  text("rotate X = " + nf(rx, 2, 1), 10, 20);
+  text("rotate Y = " + nf(ry, 2, 1), 10, 40);
   
   translate(width/2, height/2, 0);
   rotateX(rx);

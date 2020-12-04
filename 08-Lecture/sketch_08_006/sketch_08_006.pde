@@ -2,13 +2,14 @@ int ures = 5;
 int vres = 5;
 
 void setup() {
-  size(600, 600, P3D);
+  size(800, 800, P3D);
   textSize(20);
 }
 
 void draw() {
   background(204);
-
+  if (ures < 3) ures = 3;
+  if (vres < 2) vres = 2;
   text("ures = " + ures, 10, 20);
   text("vres = " + vres, 10, 40);
   translate(width/2, height/2, 0);
